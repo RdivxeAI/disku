@@ -1,6 +1,6 @@
 # Disk Usage Tool
 
-A command-line tool to display disk usage and memory consumption of the top processes on the system.
+A command-line tool to display disk usage and memory consumption of the top processes on the system in a graphical and user-friendly way.
 
 ## Requirements:
 - `gcc` or any other C compiler.
